@@ -56,4 +56,3 @@ if (dnv == "sim"){
 }else {
     console.log("-------- ACABOU -------");
 }  
-console.log("TESTE!");
